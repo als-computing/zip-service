@@ -1,0 +1,17 @@
+{
+    "zipDir": "/tmpZip",
+    "zipRetentionMillis": 3600000,
+    "jwtSecret": "ghfuersigersuhi",
+    "sessionSecret": "fj9832mnsaf3j9adsa",
+    "facility": "als",
+    "dramDirectory": "uploads/",
+    "testData": {
+      "jwt": "<jwtToken>",
+      "directory": "<testFileDirectory>",
+      "files": [
+        "<testFileName1>",
+        "<testFileName2>",
+        "<testFileName3>"
+      ]
+    }
+  }
